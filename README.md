@@ -10,3 +10,5 @@ Links for today:
 
 
 * [Jenny Bryan's ggplot2 lesson](https://github.com/jennybc/ggplot2-tutorial)
+
+* [Jenny's ggplot2 slides](https://speakerdeck.com/jennybc/ggplot2-tutorial)
